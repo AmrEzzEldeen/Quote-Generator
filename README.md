@@ -1,2 +1,2 @@
 # Quote-generator
-Generate random quotes and share them via twitter.
+Generate random quotes and share them on twitter.
